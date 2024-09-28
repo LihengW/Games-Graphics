@@ -10,9 +10,15 @@ This is a summary repository of my self-made games and graphics projects! The br
 
    *The core gameplay includes spraying colorful decals on the floor and walls, and players can move quickly within their own color. However, the fishes will try to stop the players and produce different colors, cause damage and steal eggs. The color mechanism was developed using dynamic rendering textures and UV manipulation. By the way, a PSO (Particle Swarm Optimization) algorithm is applied for the AI of massive fish groups, it makes fish can share information in a hive mind, but also helps fish keep their own target in mind.*
 
+![s](pic/Splatoon2.png)
+
+![s](pic/Splatoon1.png)
+
 ![s](pic/Splatoon3.gif)
 
+![s](pic/Splatoon4.gif)
 
+![s](pic/Splatoon5.gif)
 
 ## Swirl
 
